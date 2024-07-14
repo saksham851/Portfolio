@@ -15,6 +15,8 @@ function Contact() {
       name: data.name,
       email: data.email,
       message: data.message,
+
+      
     };
     try {
       await axios.post("https://getform.io/f/bpjmnlyb", userInfo);
