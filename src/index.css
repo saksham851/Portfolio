@@ -3,6 +3,23 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
+
+body.dark {
   font-family: "Poppins", sans-serif;
+  background-color: #1a202c; 
+  color: #cbd5e0; 
 }
+
+.bg-gray-900 {
+  background-color: #1a202c;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.text-black {
+  color: #000000;
+}
+
+

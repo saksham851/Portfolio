@@ -55,7 +55,7 @@ function About() {
         <br />
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
-          certifications
+          Certifications
         </h1>
         <span>
         I&apos;ve completed Coursera certifications in Cloud Computing, Data Encryption, and Frontend Development. These courses have enhanced my skills in managing cloud resources, securing data with encryption, and designing responsive frontends.
